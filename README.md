@@ -1,4 +1,4 @@
-2024 Fong et al. 5 years TurtleSpot project
+2024 5 years TurtleSpot project
 =======
 
 Research project initialization and organization following reproducible research guidelines (forked from https://github.com/Reproducible-Science-Curriculum/rr-init)
