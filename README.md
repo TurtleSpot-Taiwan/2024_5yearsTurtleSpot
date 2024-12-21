@@ -1,4 +1,4 @@
-2024 5 years TurtleSpot project
+2025 5 years TurtleSpot project
 =======
 
 Research project initialization and organization following reproducible research guidelines (forked from https://github.com/Reproducible-Science-Curriculum/rr-init)
@@ -11,12 +11,10 @@ Repository Overview
     |  +- paper/       # manuscript (update after publication)
     |
     |- data            # data used for analyses
-    |  |- Participant_Retention.xlsx/
-    |  |- TS_Taiwan_Sightings.xlsx/
-    |  +- Turtle_MRD.xlsx/
-    |
-    |- code/           # analyses code
-    |  |- Turtle_MRD_Kruskal-Wallis-test.R/
+    |  |- TurtleSpot_Participant_Retention.xlsx/
+    |  |- TurtleSpot_Taiwan_Sightings.xlsx/
+    |  |- TurtleSpot_Turtle_MRD.xlsx/    
+    |  +- TurtleSpot_Injury-related_Sightings.xlsx/
     |
     |- results         # all output from workflows and analyses (update after publication)
     |  |- figures/     
